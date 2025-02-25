@@ -224,7 +224,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    padding: 20px;
+    padding: 35px;
 }
 
 .card {
@@ -372,6 +372,6 @@ body {
 }
 
 .footer-credits p:hover {
-    color: #fff;
+    color: #177ad6;
     transition: color 0.3s ease;
 }
